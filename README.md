@@ -3,6 +3,9 @@
 
 # Features:
 - Newly added Singleplayer & Multiplayer Hacked Save-Data.
+- Infinite Ammo
+- Infinite Gun Durrability
+- 25,000 Health
 
 
 
