@@ -6,9 +6,12 @@
 - Infinite Ammo
 - Infinite Gun Durrability
 - 25,000 Health
+- Backup all of your save-data.
 
-
-
+# Extra Features:
+- The provided *.sav file has been decoded.
+- Rename the file to *eae0a2720ecc1c11* (Keep the *.sav extension to convert it to the 1st Save-Slot in Multiplayer).
+- If you want to inject your old Save-Data use [The-Wobbly-Tooth-Save-Manager](https://github.com/ISZ-Hacker-Group/Wobbly-Tooth-Save-Manager) *Another Application Created by: Cracko298*
 
 
 
