@@ -21,6 +21,6 @@
 
 # Notes:
 - The original [ISZ-Hack-Tool](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Hack-Tool) broke. (After Updating to Version 1.4 on Steam).
-- The code of the original did *NOT* work on *Most* PC(s)/Computer(s).
-- This new Version of the *ISZ-Hack-Tool* aims to be usable in almost any folder. However it may have a bug or two.
+- The original code did *NOT* work on *Most* PC(s)/Computer(s).
+- This new Version of the *ISZ-Hack-Tool* aims to be usable in almost any folder (On *any* PC running Windows 8/8.1 - Windows 10/11).
 - Create an issue please if you encounter any bugs, crashes/crash-logs, etc.
