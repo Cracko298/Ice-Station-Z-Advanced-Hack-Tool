@@ -21,4 +21,4 @@
 
 # Notes:
 - The original [ISZ-Hack-Tool](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Hack-Tool) broke. (After Updating to Version 1.4 on Steam).
-- This was just found out after running through the save-data algorithm.
+- Plus the code did *NOT* work on Machines that didn't have a *C:\* disc.
