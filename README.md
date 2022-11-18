@@ -7,7 +7,7 @@
 - Newly added Singleplayer & Multiplayer Hacked Save-Data.
 - Infinite Ammo
 - Infinite Gun Durrability
-- 25,000 Health
+- 250,000 Health
 - Backup all of your save-data.
 
 # Extra Feature(s):
